@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Daniel Guay]]></title>
+        <description><![CDATA[Daniel Guay]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Feb 2016 05:24:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Manage another person's mail and calendar items]]></title>
+            <description><![CDATA[<article><h1>Manage another person's mail and calendar items</h1><p>There are two ways to work with another person's Outlook folders - sharing folders and entrusting someone to act on your behalf. Note An Office 365 for business or other Microsoft Exchange-based account is required. For more information, see What is a Microsoft Exchange Server account?.</p><img src="https://osiprodeusodcspstoa01.blob.core.windows.net/en-us/media/d546704d-8d68-4538-b385-9b31998ad113.gif"></article>]]></description>
+            <link>https://support.office.com/en-us/article/Manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5</link>
+            <guid isPermaLink="false">9a72dddd-8e5d-460d-8eb9-e7ba27ab7763</guid>
+            <pubDate>Wed, 03 Feb 2016 05:23:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
